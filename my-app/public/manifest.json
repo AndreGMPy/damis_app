@@ -1,6 +1,6 @@
 {
-    "name": "Punto de Venta Damaris",
-    "short_name": "POS Damaris",
+    "name": "DamisCost",
+    "short_name": "DamisCost",
     "description": "Sistema de ventas offline para el negocio",
     "start_url": "/",
     "display": "standalone",
