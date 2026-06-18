@@ -1,0 +1,17 @@
+{
+    "name": "Punto de Venta Damaris",
+    "short_name": "POS Damaris",
+    "description": "Sistema de ventas offline para el negocio",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#f59e0b",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/561/561115.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

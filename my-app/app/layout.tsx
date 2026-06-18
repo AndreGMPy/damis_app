@@ -16,6 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Punto de Venta - Damaris",
   description: "Sistema para administrar ventas, gastos e inventario.",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
